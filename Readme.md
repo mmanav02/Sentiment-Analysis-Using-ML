@@ -14,6 +14,6 @@ Using the [Hate Speech and Offensive Language Dataset](https://www.kaggle.com/da
     ![DTgini Accuracy Graph](<DT Gini Index Accuracy.png>)
     ![KNN Accuracy Graph](<KNN accuracy.png>)
     Accuracy Comparison Table - 
-    ![Accuracy Comparison Table](<AcC table.jpg>)
+    ![Accuracy Comparison Table](<AcC_table.jpg>)
 
 This repository acts a submission for major innovative assignment for the course - Machine learning (DSA - 2CS501) while pursuing B.Tech CSE at Nirma University.
